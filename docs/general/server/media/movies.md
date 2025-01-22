@@ -5,7 +5,7 @@ title: Movies
 
 # Movies
 
-Movies should usually be in the library root directory or in a subfolder for the individual films. The subfolders allow for organization of metadata and images. Adding the year at the end in parentheses will yield the best results when scraping metadata.
+Movies need to be in the library root directory or in a subfolder for the individual films. Not following this structure can cause misidentification or absence of expected media. Subfolders for each film allows for organization of metadata and images. Adding the year at the end in parentheses will yield the best results when scraping metadata.
 
 :::tip
 
